@@ -9,7 +9,6 @@ AIKA_LLM_API/
 │── memory/
 │── model_source/
 │── rvc_engine/
-│── cookies.json
 │── server.py                 
 │── migrate.py        
 │── requirements_memory.txt
