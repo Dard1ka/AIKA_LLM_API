@@ -1,6 +1,8 @@
 # AIKA LLM API
 An API-based AI system that integrates OpenAI’s language models, text-to-speech using Edge TTS, and voice conversion based on RVC. The system accepts user input, generates a text response via an LLM, then converts it to speech using TTS and applies a specific voice (fine-tuned voice) to provide a better interactive experience.
 
+## Demo Video in Indonesian : https://youtu.be/fUw0D4FmWCU
+
 📂 File Structure
 ```pqsql
 AIKA_LLM_API/
